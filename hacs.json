@@ -1,0 +1,6 @@
+{
+  "name": "Smart Meter Texas Host",
+  "domains": ["sensor"],
+  "iot_class": "Cloud Pull",
+  "render_readme": false
+}

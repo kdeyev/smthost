@@ -1,0 +1,10 @@
+{
+  "domain": "smthost",
+  "name": "Smart Meter Texas Host",
+  "config_flow": true,
+  "documentation": "https://github.com/kdeyev/smthost",
+  "requirements": [],
+  "codeowners": ["@grahamwetzler"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
